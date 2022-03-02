@@ -1,0 +1,8 @@
+numpy
+pandas
+contractions
+spacy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
