@@ -23,26 +23,6 @@ Given a review, predict the underlying condition.
 1. Accuracy
 2. Confusion matrix (for top 10 classes in the dataset only, consider all other classes as ‘other’)
 
-### Instructions
-
-- Prepare a python notebook/script with comments
-- Choose the algorithm/model of your liking
-- Metrics must be calculated on the **test set**
-- Provide the accuracy and confusion matrix numbers in a separate file (.txt)
-- Please create a zip package and email the results at **kunal.saluja@contentfly.com**
-    - You can also provide a GitHub link
-- Candidates will be ranked on a scale from 0-25. Points will be awarded for:
-    - Code structure and cleanliness [3]
-    - Comments [2]
-    - Accuracy metric [5]
-    - Confusion matrix [5]
-    - Explanation during the interview: [5]
-    - Bonus [5]
-
-<aside>
-💡 Bonus points for comparing results of a deep learning approach and a classical approach
-
-</aside>
 
 <br><br>
 
